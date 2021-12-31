@@ -20,6 +20,9 @@ Step 3
 
 Open the .txt file, press edit, and then paste your value(s) in there. This is shown in the images below. To keep things organised, just follow the same pattern in the .txt file that everyone else above has. 
 
+![image](https://user-images.githubusercontent.com/49022127/147834257-a6113cbd-3362-487f-927a-85bec1f34acd.png)
+![image](https://user-images.githubusercontent.com/49022127/147834263-ef1e03f8-d30a-4f2b-b630-ad6e92930d3a.png)
+
 Step 4 (getting the wishlist on DIM)
 
 To actually use the wishlist on DIM, go to DIM settings and paste this link https://raw.githubusercontent.com/Tattoowean/OlympusDIMwishlist/main/DIMwishlist.txt in the box shown below, then press "Update Wish List Source" and you're good to go!
