@@ -48,3 +48,10 @@ dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294
 dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457
 //notes: -Frog; PvE Roll, Demo + AJ is inherently a good combination. Arrowhead as per usual on a pulse and mag + masterwork won't matter too much, but I'd go for Ricos and a Stability MW.
 dimwishlist:item=2708806099&perks=839105230,3523296417,11612903
+
+//test
+//palindrome
+//notes: pve
+dimwishlist:item=1481892490&perks=1168162263,4049631843
+//notes: pvp
+dimwishlist:item=1481892490&perks=706527188,2846385770
