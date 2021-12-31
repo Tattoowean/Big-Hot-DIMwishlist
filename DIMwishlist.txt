@@ -26,11 +26,9 @@ dimwishlist:item=1866778462&perks=981914802,3796465595,3977735242,3194351027
 dimwishlist:item=1866778462&perks=3525010810,3796465595,3977735242,3194351027
 
 // Eyasluna
-//notes: -Frog; Classic PvP Eyasluna. Masterwork: Range, but pretty much anything except Reload.
-dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,588594999
-dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,588594999
-dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,588594999
-dimwishlist:item=235827225&perks=1926090094,1561002382,2846385770,588594999
+//notes: -Frog; Classic PvP Eyasluna. Steadyhand or Fastdraw Sight and a Range MW, but pretty much anything except Reload.
+dimwishlist:item=235827225&perks=1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1561002382,2846385770,588594999
 //notes: -Frog; PvP Eyasluna. Perpetual Motion is really nice, especially if you dislike Rangefinder. Go for Steadyhand or Fastdraw and a Range MW.
 dimwishlist:item=235827225&perks=1885400500,1428297954,588594999
 dimwishlist:item=235827225&perks=1561002382,1428297954,588594999
