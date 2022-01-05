@@ -26,28 +26,28 @@ dimwishlist:item=1866778462&perks=981914802,3796465595,3977735242,3194351027
 dimwishlist:item=1866778462&perks=3525010810,3796465595,3977735242,3194351027
 
 // Eyasluna
-//notes: -Frog; Classic PvP Eyasluna. Steadyhand or Fastdraw Sight and a Range MW, but pretty much anything except Reload.
-dimwishlist:item=235827225&perks=1885400500,2846385770,588594999
-dimwishlist:item=235827225&perks=1561002382,2846385770,588594999
-//notes: -Frog; PvP Eyasluna. Perpetual Motion is really nice, especially if you dislike Rangefinder. Go for Steadyhand or Fastdraw and a Range MW.
-dimwishlist:item=235827225&perks=1885400500,1428297954,588594999
-dimwishlist:item=235827225&perks=1561002382,1428297954,588594999
+//notes: -Frog; Certified Frogroll. Masterwork: Range. Nicely done!
+dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,588594999
+//notes: -Frog; PvE Roll. Masterwork: Range. Great job!
+dimwishlist:item=235827225&perks=1926090095,1885400500,247725512,124408337
 
 // 1000 Yard Stare
-//notes: -Frog; PvP 1K Yard Stare. QD + SS is the classic Beloved feel, but Heating Up gives you Opening Shot-esque Accuracy after a kill, which sounds like fun for hitting big clips. Always go for Accurized as your mag option, and a Handling or Range Barrel and MW, depending on your preference. 
-dimwishlist:item=4164201232&perks=3142289711,706527188,957782887
-dimwishlist:item=4164201232&perks=3142289711,1570042021,957782887
+//notes: -Frog; Classic PvP Roll. Masterwork: Range or Handling.
+dimwishlist:item=4164201232&perks=1840239774,3142289711,706527188,957782887
+//notes: -Frog; PvP Frogroll. Masterwork: Range or Handling. 
+dimwishlist:item=4164201232&perks=1840239774,3142289711,1570042021,957782887
 
 
 // Heritage
-//notes: -Frog; PvE Roll. Masterwork either Range or Handling. 
+//notes: -Frog; PvE Roll. Masterwork either Range or Handling. Great job on obtaining that, guardian!
 dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294
 
 // BXR-55 Battler
-//notes: -Frog; PvP Roll, Arrowhead is mandatory to get your recoil to 100, and getting Kill Clip going is pretty much the only reason to use this archetype, as the normal ttk isn't something to write home about. Masterwork: Stability, but I feel like every MW will benefit you. 
+//notes: -Frog; PvP Sauce. Masterwork: Stability.
 dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457
-//notes: -Frog; PvE Roll, Demo + AJ is inherently a good combination. Arrowhead as per usual on a pulse and mag + masterwork won't matter too much, but I'd go for Ricos and a Stability MW.
-dimwishlist:item=2708806099&perks=839105230,3523296417,11612903
+//notes: Frog; PvE Funtime. Masterwork: Anything but Reload, really.
+dimwishlist:item=2708806099&perks=839105230,1885400500,3523296417,11612903
 
 // Ignition Code
 //notes: -Tattoowean
@@ -67,3 +67,32 @@ dimwishlist:item=1987769101&perks=1840239774,106909392,3418782618,2213355989
 dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738
 dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3592538738
 dimwishlist:item=981718087&perks=1441682018,2822142346,2010801679,3592538738
+
+// Wastelander M5
+//notes: -Frog; PvP Frogroll. Masterwork: Range, but Handling also works.
+dimwishlist:item=1679868061&perks=1047830412,791862061,1428297954,47981717
+
+// The Other Half
+//notes: -Frog; Congratulations, you just won the Destiny lottery. Lucky you!
+dimwishlist:item=3257091167&perks=3666208348,269888150,2077819806,4104185692
+
+// Matador 64
+//notes: -Frog; PvP Frogroll. Masterwork: Range or Handling.
+dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717
+
+// A Sudden Death
+//notes: -Frog; PvP Arc Subclass Chaddington. Masterwork: Handling or Range. If you have this, I hate you. (Jk, congrats, you chad.)
+dimwishlist:item=2855157553&perks=1047830412,791862061,4071163871,3511092054
+
+// Reed's Regret (Adept)
+//notes: -Frog; PvE DPS Frogroll. Masterwork: Whatever. Probably Handling or Reload.
+dimwishlist:item=2475355656&perks=1840239774,2680121939,3400784728,1771339417
+
+// Darkest Before
+//notes: -Frog; PvP Consistency Frogchamp. Masterwork: Stability.
+dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,3511092054
+
+// Seventh Seraph CQC-12
+//notes: -Frog; PvP Frogroll. Masterwork: Handling. QD is for losers, slap a Quick Access Sling on that bad boy, bring dex mods and this thing is snappier than a knoppers. 
+dimwishlist:item=1821724780&perks=1047830412,791862061,3161816588,957782887
+
