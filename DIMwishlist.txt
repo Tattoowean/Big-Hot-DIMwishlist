@@ -110,3 +110,56 @@ dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3523296417
 //notes: -Frog; PvE Frogroll. Masterwork: Fastboi (Drawtime).
 dimwishlist:item=4095896073&perks=2801223209,3827198035,3311977193,201365942,3365897133
 
+// The Palindrome (Adept)
+//notes: -Frog; PvP Frogroll. Masterwork: Range.
+dimwishlist:item=1481892490&perks=3661387068,1885400500,706527188,2846385770
+
+// Uzume RR4 (Adept)
+//notes: -Frog; PvP Wish-I-Had-That-Roll. Masterwork: Range or Handling.
+dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,1546637391
+
+// Hung Jury SR4 (Adept)
+//notes: -Frog; PvE Personal Juicer. Masterwork: Whatever.
+dimwishlist:item=681067419&perks=839105230,106909392,3436462433,3824105627
+
+// PLUG ONE.1 (Adept)
+//notes: -Frog; PvE Moisturizer. Masterwork: Yes. Stability or Range or Handling or Reload in that order.
+dimwishlist:item=534775659&perks=839105230,3868766766,2779035018,1427256713
+
+// Frozen Orbit
+//notes: -Frog; Honestly, if you have that exact roll... Just get outta here, you lucky snacker.
+dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,957782887
+
+// The Messenger (Adept)
+//notes: -Frog; This is a Frogroll. Sounds like fun on paper. Stability or Handling MW.
+dimwishlist:item=1173780905&perks=839105230,1561002382,1570042021,3047969693
+
+// Igneous Hammer (Adept)
+//notes: -Frog; Consitency/Duelling Roll. Do not underestimate a saucy 120 HC. Masterwork: Range, Handling, Stability in that order.
+dimwishlist:item=2527666306&perks=3661387068,1885400500,706527188,47981717
+
+// Eye of Sol (Adept)
+//notes: -Frog; PvP Aimbot Sniper. Masterwork: Range or Handling. Bring Adept Targeting and watch that sniper get headshots for you.
+dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,957782887
+
+// Shayura's Wrath (Adept)
+//notes: -Frog; PvP Pocket Autorifle. Masterwork: Range. Max your Range out and watch the lobby go: "Shakira, Shakira!"
+dimwishlist:item=4023807721&perks=1467527085,3142289711,1359896290,1015611457
+
+// Found Verdict (Timelost)
+//notes: -Frog; Honestly, I feel like lightweights are in a better spot, but this is the best aggressive frame out there. I still like Surplus, because Handling > Everything else. Masterwork: Handling. 
+dimwishlist:item=631439337&perks=1047830412,791862061,3436462433,47981717
+//notes: -Frog; Max Range Roll for you absolute bonker boys with Quck Access Sling and Quick Charge and Triple SG Dex. Range MW, obviously.
+dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,47981717
+
+// Fatebringer (Timelost)
+//notes: -Frog; PvE Classic. Frenzy and Firefly. Payload, always. Masterwork: Whatever. Range, probably. Man, looking at the name of that gun - That FateFX kid from Valhalla had some serious issues, I hope this little weirdo is doing better and not plaguing discord servers with his obscene messages anymore. Bless the poor fella.
+dimwishlist:item=1216319404&perks=3142289711,3038247973,4104185692,3824105627
+dimwishlist:item=1216319404&perks=106909392,3038247973,4104185692,3824105627
+//notes: -Frog; PvP Frogroll. Masterwork: Range.
+dimwishlist:item=1216319404&perks=1467527085,3142289711,3038247973,699525795
+
+// Corrective Measure (Timelost)
+//notes: -Frog; Looks like fun for general PvE Ad-Mowing.
+dimwishlist:item=3796510434&perks=839105230,106909392,3523296417,2726471870
+
