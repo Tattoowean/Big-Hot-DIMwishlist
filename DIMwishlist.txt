@@ -29,8 +29,7 @@ dimwishlist:item=1866778462&perks=3525010810,3796465595,3977735242,3194351027
 
 // Eyasluna
 //notes: -Frog; Certified Frogroll. Masterwork: Range. Nicely done!
-dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,588594999
-dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090094,1926090095,1885400500,1561002382,2846385770,588594999
 //notes: -Frog; PvE Roll. Masterwork: Range. Great job!
 dimwishlist:item=235827225&perks=1926090095,1885400500,247725512,124408337
 
@@ -79,7 +78,7 @@ dimwishlist:item=1679868061&perks=1047830412,791862061,1428297954,47981717
 dimwishlist:item=3257091167&perks=3666208348,269888150,2077819806,4104185692
 
 // Matador 64
-//notes: -Frog; PvP Frogroll. Masterwork: Range or Handling.
+//notes: -Frog; PvP Frogroll. Masterwork: Range or Handling. Congrats!
 dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717
 
 // A Sudden Death
@@ -132,7 +131,7 @@ dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,957782887
 
 // The Messenger (Adept)
 //notes: -Frog; This is a Frogroll. Sounds like fun on paper. Stability or Handling MW.
-dimwishlist:item=1173780905&perks=839105230,1561002382,1570042021,3047969693
+dimwishlist:item=1173780905&perks=839105230,1561002382,1570042021,247725512,3047969693
 
 // Igneous Hammer (Adept)
 //notes: -Frog; Consitency/Duelling Roll. Do not underestimate a saucy 120 HC. Masterwork: Range, Handling, Stability in that order.
@@ -147,10 +146,8 @@ dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,957782887
 dimwishlist:item=4023807721&perks=1467527085,3142289711,1359896290,1015611457
 
 // Found Verdict (Timelost)
-//notes: -Frog; Honestly, I feel like lightweights are in a better spot, but this is the best aggressive frame out there. I still like Surplus, because Handling > Everything else. Masterwork: Handling. 
-dimwishlist:item=631439337&perks=1047830412,791862061,3436462433,47981717
-//notes: -Frog; Max Range Roll for you absolute bonker boys with Quck Access Sling and Quick Charge and Triple SG Dex. Range MW, obviously.
-dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,47981717
+//notes: -Frog; Honestly, I feel like lightweights are in a better spot, but this is the best aggressive frame out there. I still like Surplus, because Handling > Everything else. Masterwork: Handling. Only go for Max Range if you go all in on Quick Charge, Shotgun Dex and QA Sling.
+dimwishlist:item=631439337&perks=1047830412,791862061,3142289711,3436462433,3161816588,47981717
 
 // Fatebringer (Timelost)
 //notes: -Frog; PvE Classic. Frenzy and Firefly. Payload, always. Masterwork: Whatever. Range, probably. Man, looking at the name of that gun - That FateFX kid from Valhalla had some serious issues, I hope this little weirdo is doing better and not plaguing discord servers with his obscene messages anymore. Bless the poor fella.
