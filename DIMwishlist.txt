@@ -3,6 +3,8 @@
 dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391
 dimwishlist:item=2990047042&perks=839105230,106909392,1523832109,1546637391
 dimwishlist:item=2990047042&perks=4090651448,106909392,1523832109,1546637391
+//notes: -Frog; Frogroll.
+dimwishlist:item=2990047042&perks=1482024992,106909392,1523832109,1546637391
 
 // Retold Tale
 //notes: -Tattoowean
@@ -95,4 +97,16 @@ dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,3511092054
 // Seventh Seraph CQC-12
 //notes: -Frog; PvP Frogroll. Masterwork: Handling. QD is for losers, slap a Quick Access Sling on that bad boy, bring dex mods and this thing is snappier than a knoppers. 
 dimwishlist:item=1821724780&perks=1047830412,791862061,3161816588,957782887
+
+// Seventh Seraph SI-2
+//notes: -Frog; PvE Chadston. Masterwork: Range. This little blaster is hugely slept on. Love it.
+dimwishlist:item=3937866388&perks=1840239774,4134353779,1087426260,3523296417,1546637391
+
+// IKELOS_SMG_v1.0.2
+//notes: -Frog; Frogroll. Masterwork: Anything. Need I say more?
+dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3523296417
+
+// Accrued Redemption
+//notes: -Frog; PvE Frogroll. Masterwork: Fastboi (Drawtime).
+dimwishlist:item=4095896073&perks=2801223209,3827198035,3311977193,201365942,3365897133
 
