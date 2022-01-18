@@ -184,4 +184,13 @@ dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
 dimwishlist:item=2139640995&perks=3523296417,2396489472
 dimwishlist:item=2139640995&perks=3108830275,2396489472
 
+// Dead Man's Tale
+//notes: -Frog; PvP Frogroll. All my homies want Vorpal, but I want that strafe and aim assist bump, because I want to yee the fricking haw as often as humanly possible. When I hear that whistle blow my happiness increases immediately, and the more headys I hit, the more the gun becomes a two tapper. Beautiful really. With this perk combination I opted for as much Handling and Stability as possible, while going to a 100 recoil direction as well. 
+dimwishlist:item=3654674561&perks=1840239774,1885400500,588594999,4259401308
+dimwishlist:item=3654674561&perks=839105230,1885400500,588594999,990298390
+
+// Hawkmoon
+//notes: -Frog; Caw to the Caw, my man. Going for a 100 recoil direction and Rangefinder. My focus is on Stability, but you can also go for Extended Barrel, if you want more Range. Eye of the Storm is a solid perk if you don't like the zoomy RF. But Froggo likes the zoom, since it's better for your Range than the actual Range stat, which is a weird flex on Bungie's part, but ok. 
+dimwishlist:item=3856705927&perks=3661387068,1431678320,2846385770,3326204863
+dimwishlist:item=3856705927&perks=3661387068,1431678320,699525795,3326204863
 
