@@ -157,7 +157,7 @@ dimwishlist:item=631439337&perks=1047830412,791862061,3436462433,47981717
 dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,47981717
 
 // Fatebringer (Timelost)
-//notes: -Frog; PvE Classic. Frenzy and Firefly. Payload, always. Masterwork: Whatever. Range, probably.
+//notes: -Frog; PvE Classic. Frenzy and Firefly. Payload, always. Masterwork: Whatever. Range, probably. Man, looking at the name of that gun - That Fate kid from Val had some serious issues, I hope this dude is doing better and not plaguing discord servers with his obscene messages anymore. Bless the poor fella. 
 dimwishlist:item=1216319404&perks=3142289711,3038247973,4104185692,3824105627
 dimwishlist:item=1216319404&perks=106909392,3038247973,4104185692,3824105627
 //notes: -Frog; PvP Frogroll. Masterwork: Range.
@@ -170,3 +170,18 @@ dimwishlist:item=3796510434&perks=839105230,106909392,3523296417,2726471870
 // Half-Truths
 //notes: -Frog; We all know it's just the cheap Cola knock-off, not the real deal that Santa Claus advertises for, but it still has Eager Edge and not everyone can have a purple lamborghini lurking. I like Tresh on it, but you can really use whatever in the third column. In any column really, as long as you can zoom. 
 dimwishlist:item=3257091166&perks=3666208348,269888150,2077819806
+
+// The Last Breath
+//notes: -Frog; This is the PvE Frogroll. While we must not disregard the inherent synergy of Demo + AJ, I still prefer Subsistence, so my gunny goes BRRRRRRRRRR. *screams in dreg*
+dimwishlist:item=507038823&perks=839105230,1885400500,1820235745,11612903
+
+// First In, Last Out
+//notes: -Frog; Apart from being innately drawn to that gun because its name is my standard procedure on a beer pong evening, this thing was the METAH while double slugs and Anarchy was the dps play everywhere. RIP to that combination. This was the godroll and still is insanely useful in a lot of scenarios. Barrels won't make or break this roll, but go for Fluted and a Range or Handling MW if you won't have that 4/5 mentality in your vault, you cute snack. 
+dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
+
+// Hero of Ages
+//notes: -Frog; This bad boi is a bloody lightning infused Claymore from Dark Souls, with which you can spin like a Beyblade to top things off. It makes enemies go BOOM! and gives you your BOOM! back quicker. Alternative you can go for Unrelenting to have a Devour-esque effect, which is also pretty cool. Not a sustain-dps option, but really good for clearing an entire room, as in first encounter for trio DSC, "lightning"-quick - no pun intended. Jagged + Swordmasters is nice for more spins and more ouch, but you can really go with whatever you fancy, since it doesn't matter much for ad clear.
+dimwishlist:item=2139640995&perks=3523296417,2396489472
+dimwishlist:item=2139640995&perks=3108830275,2396489472
+
+
