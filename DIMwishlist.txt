@@ -31,6 +31,8 @@ dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,588594999
 dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,588594999
 //notes: -Frog; PvE Roll. Masterwork: Range. Great job!
 dimwishlist:item=235827225&perks=1926090095,1885400500,247725512,124408337
+//notes: -Weens PvE Roll.
+dimwishlist:item=235827225&perks=1926090095,3230963543,3108830275,124408337
 
 // 1000 Yard Stare
 //notes: -Frog; Classic PvP Roll. Masterwork: Range or Handling. Has perks like the Beloved had and tastes like it too, buuuuuut it's a breakfast cereal! 1k Yard Stare, next time it's mine! 
