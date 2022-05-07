@@ -203,7 +203,3 @@ dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472
 // Cataclysmic
 //notes: -Tattoowean
 dimwishlist:item=999767358&perks=,2680121939,1354429876,2896038713
-
-// Explosive Personality
-//notes: -Tattoowean
-dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4104185692
