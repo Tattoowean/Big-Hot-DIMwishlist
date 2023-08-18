@@ -1,3 +1,9 @@
+title:Big Hot Wish List
+
+// Pressurized Precision (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1084190509&perks=4090651448,689005463,280464955,699525795
+
 // Succession
 //notes: -Tattoowean
 dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391
