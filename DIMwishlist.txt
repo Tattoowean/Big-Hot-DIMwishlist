@@ -1,211 +1,153 @@
 title:Big Hot Wish List
 
-// Pressurized Precision (god-pve)
-//notes: AAA tags:god-pve
-dimwishlist:item=1084190509&perks=4090651448,689005463,280464955,699525795
-
-// Succession
-//notes: -Tattoowean
-dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391
-dimwishlist:item=2990047042&perks=839105230,106909392,1523832109,1546637391
-dimwishlist:item=2990047042&perks=4090651448,106909392,1523832109,1546637391
-
-// Retold Tale
-//notes: -Tattoowean
-dimwishlist:item=346136302&perks=1047830412,791862061,706527188,957782887
-
-// Found Verdict (Timelost)
-//notes: -Tattoowean
-dimwishlist:item=631439337&perks=1047830412,791862061,3436462433,47981717
-
-// Heritage
-//notes: -Tattoowean
-dimwishlist:item=4248569242&perks=4090651448,791862061,1523832109,469285294
-dimwishlist:item=4248569242&perks=202670084,791862061,1523832109,469285294
-dimwishlist:item=4248569242&perks=3250034553,791862061,1523832109,469285294
-dimwishlist:item=4248569242&perks=1482024992,791862061,1523832109,469285294
-
-// The Hothead (Adept)
-//notes: -Tattoowean
-dimwishlist:item=1866778462&perks=1478423395,3796465595,3977735242,3194351027
-dimwishlist:item=1866778462&perks=981914802,3796465595,3977735242,3194351027
-dimwishlist:item=1866778462&perks=3525010810,3796465595,3977735242,3194351027
-
 // Eyasluna
-//notes: -Frog; Certified Frogroll. Masterwork: Range. Nicely done!
+//notes: Frog; Certified Frogroll. Masterwork: Range. Nicely done!
 dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,588594999
 dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,588594999
-//notes: -Frog; PvE Roll. Masterwork: Range. Great job!
+//notes: Frog; PvE Roll. Masterwork: Range. Great job!
 dimwishlist:item=235827225&perks=1926090095,1885400500,247725512,124408337
-//notes: -Weens PvE Roll.
-dimwishlist:item=235827225&perks=1926090095,3230963543,3108830275,124408337
 
 // 1000 Yard Stare
-//notes: -Frog; Classic PvP Roll. Masterwork: Range or Handling. Has perks like the Beloved had and tastes like it too, buuuuuut it's a breakfast cereal! 1k Yard Stare, next time it's mine! 
+//notes: Frog; Classic PvP Roll. Masterwork: Range or Handling. Has perks like the Beloved had and tastes like it too, buuuuuut it's a breakfast cereal! 1k Yard Stare, next time it's mine! 
 dimwishlist:item=4164201232&perks=1840239774,3142289711,706527188,957782887
-//notes: -Frog; PvP Frogroll. Masterwork: Range or Handling. Heating Up gives you Opening Shot-esque accuracy after one kill. Klick one head and then get ready for some montage making, you saucy little gamer!
+//notes: Frog; PvP Frogroll. Masterwork: Range or Handling. Heating Up gives you Opening Shot-esque accuracy after one kill. Klick one head and then get ready for some montage making, you saucy little gamer!
 dimwishlist:item=4164201232&perks=1840239774,3142289711,1570042021,957782887
 
 // Heritage
-//notes: -Frog; PvE Roll. Masterwork either Range or Handling. Great job on obtaining that, guardian!
+//notes: Frog; PvE Roll. Masterwork either Range or Handling. Great job on obtaining that, guardian!
 dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294
 
 // BXR-55 Battler
-//notes: -Frog; PvP Sauce. Masterwork: Stability.
+//notes: Frog; PvP Sauce. Masterwork: Stability.
 dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457
 //notes: Frog; PvE Funtime. Masterwork: Anything but Reload, really.
 dimwishlist:item=2708806099&perks=839105230,1885400500,3523296417,11612903
 
-// Ignition Code
-//notes: -Tattoowean
-dimwishlist:item=304659313&perks=981914802,3032599245,3161816588,960810156
-dimwishlist:item=304659313&perks=981914802,3032599245,3161816588,3523296417
-dimwishlist:item=304659313&perks=981914802,3032599245,3161816588,1546637391
-dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,960810156
-dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,1546637391
-dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,3523296417
-
 // Praedyth's Revenge (Timelost)
-//notes: -Tattoowean
-dimwishlist:item=1987769101&perks=1840239774,106909392,3418782618,2213355989
-//notes: -Frog; Arrowhead for the recoil direction, because you want to shoot, shoot, shoot, shoot, shoot, shoot and not miss a single bullet and then do it over again. Yeehaw. 
+//notes: Frog; Arrowhead for the recoil direction, because you want to shoot, shoot, shoot, shoot, shoot, shoot and not miss a single bullet and then do it over again. Yeehaw. 
 dimwishlist:item=1987769101&perks=839105230,106909392,3418782618,2213355989
 
-// Deafening Whisper
-//notes: -Tattoowean
-dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738
-dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3592538738
-dimwishlist:item=981718087&perks=1441682018,2822142346,2010801679,3592538738
-
 // Wastelander M5
-//notes: -Frog; PvP Frogroll. Masterwork: Range, but Handling also works.
+//notes: Frog; PvP Frogroll. Masterwork: Range, but Handling also works.
 dimwishlist:item=1679868061&perks=1047830412,791862061,1428297954,47981717
 
 // The Other Half
-//notes: -Frog; Congratulations, you just won the Destiny lottery. Go flex a screenshot of that weapon in your clan's godroll channel, you sweet schmeckler!
+//notes: Frog; Congratulations, you just won the Destiny lottery. Go flex a screenshot of that weapon in your clan's godroll channel, you sweet schmeckler!
 dimwishlist:item=3257091167&perks=3666208348,269888150,2077819806,4104185692
 
 // Matador 64
-//notes: -Frog; PvP Frogroll. Masterwork: Range or Handling. Honestly, Precision frames are not as snappy as Lightweights and not as lethal as Aggressives, but this thing's iron sights are pretty sweet and the gun looks cool. 10/10 would loot again. 
+//notes: Frog; PvP Frogroll. Masterwork: Range or Handling. Honestly, Precision frames are not as snappy as Lightweights and not as lethal as Aggressives, but this thing's iron sights are pretty sweet and the gun looks cool. 10/10 would loot again. 
 dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717
 
 // A Sudden Death
-//notes: -Frog; PvP Arc Subclass Chaddington. Masterwork: Handling or Range. If you have this, I hate you. (Jk, congrats, you chad.)
+//notes: Frog; PvP Arc Subclass Chaddington. Masterwork: Handling or Range. If you have this, I hate you. (Jk, congrats, you chad.)
 dimwishlist:item=2855157553&perks=1047830412,791862061,4071163871,3511092054
 
 // Reed's Regret (Adept)
-//notes: -Frog; PvE DPS Frogroll. Masterwork: Whatever. Probably Handling. Magazine perk: Nothing really matters to me (read that in a Freddy Mercury singing voice please). The only thing I regret is the amount of nerves Trials has cost me over the years, don't know what that Reed guy's problem is. He should quit whining and give us a nice Pulse Rifle next, honestly. 
+//notes: Frog; PvE DPS Frogroll. Masterwork: Whatever. Probably Handling. Magazine perk: Nothing really matters to me (read that in a Freddy Mercury singing voice please). The only thing I regret is the amount of nerves Trials has cost me over the years, don't know what that Reed guy's problem is. He should quit whining and give us a nice Pulse Rifle next, honestly. 
 dimwishlist:item=2475355656&perks=1840239774,3400784728,1771339417
 
 // Darkest Before
-//notes: -Frog; PvP Consistency Frogchamp. Masterwork: Stability. The night is always Darkest Before the frog arrives and plays Destiny with you. Hello. 
+//notes: Frog; PvP Consistency Frogchamp. Masterwork: Stability. The night is always Darkest Before the frog arrives and plays Destiny with you. Hello. 
 dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,3511092054
 
 // Seventh Seraph CQC-12
-//notes: -Frog; PvP Frogroll. Masterwork: Handling. QD is for losers, slap a Quick Access Sling on that bad boy, bring dex mods and this thing is snappier than a knoppers. 
+//notes: Frog; PvP Frogroll. Masterwork: Handling. QD is for losers, slap a Quick Access Sling on that bad boy, bring dex mods and this thing is snappier than a knoppers. 
 dimwishlist:item=1821724780&perks=1047830412,791862061,3161816588,957782887
-//notes: -Frog; PvP Normie-Godroll. I value the higher rpm of Assault Mag over the teensy tiny bit of range Accurized Rounds give you. And I was just kidding about QD being for losers, this roll can be your best friend in the crucible. 
+//notes: Frog; PvP Normie-Godroll. I value the higher rpm of Assault Mag over the teensy tiny bit of range Accurized Rounds give you. And I was just kidding about QD being for losers, this roll can be your best friend in the crucible. 
 dimwishlist:item=1821724780&perks=1047830412,791862061,706527188,957782887
 
 // Seventh Seraph SI-2
-//notes: -Frog; PvE Chadston. Masterwork: Range. This little blaster is hugely slept on. Love it.
+//notes: Frog; PvE Chadston. Masterwork: Range. This little blaster is hugely slept on. Love it.
 dimwishlist:item=3937866388&perks=1840239774,3523296417,1546637391
 
 // IKELOS_SMG_v1.0.2
-//notes: -Frog; Frogroll. Masterwork: Anything. Need I say more?
+//notes: Frog; Frogroll. Masterwork: Anything. Need I say more?
 dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3523296417
 
 // Accrued Redemption
-//notes: -Frog; PvE Frogroll. Masterwork: Fastboi (Drawtime). This bow is pretty cool with overload bow, otherwise it's just a bow. But a bowie bow at that. 
+//notes: Frog; PvE Frogroll. Masterwork: Fastboi (Drawtime). This bow is pretty cool with overload bow, otherwise it's just a bow. But a bowie bow at that. 
 dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3365897133
 
 // The Palindrome (Adept)
-//notes: -Frog; PvP Frogroll. Masterwork: Range.
+//notes: Frog; PvP Frogroll. Masterwork: Range.
 dimwishlist:item=1481892490&perks=3661387068,1885400500,706527188,2846385770
 
 // Uzume RR4 (Adept)
-//notes: -Frog; PvP Wish-I-Had-That-Roll. Masterwork: Range or Handling. Speedrunning Warden of Nothing was fun though, so I regret nothing. Get to popping heads, juardian!
+//notes: Frog; PvP Wish-I-Had-That-Roll. Masterwork: Range or Handling. Speedrunning Warden of Nothing was fun though, so I regret nothing. Get to popping heads, juardian!
 dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,1546637391
 
 // Hung Jury SR4 (Adept)
-//notes: -Frog; PvE Personal Juicer. Masterwork: Whatever.
+//notes: Frog; PvE Personal Juicer. Masterwork: Whatever.
 dimwishlist:item=681067419&perks=839105230,106909392,3436462433,3824105627
 dimwishlist:item=681067419&perks=839105230,106909392,247725512,3824105627
 
 // PLUG ONE.1 (Adept)
-//notes: -Frog; PvE Moisturizer. Masterwork: Yes. Stability or Range or Handling or Reload in that order, but it's really whatever... or is it? (:
+//notes: Frog; PvE Moisturizer. Masterwork: Yes. Stability or Range or Handling or Reload in that order, but it's really whatever... or is it? (:
 dimwishlist:item=534775659&perks=839105230,3868766766,2779035018,1427256713
 
 // Frozen Orbit
-//notes: -Frog; Honestly, if you have that exact roll... Just get outta here, you lucky snackerdoodle. 
+//notes: Frog; Honestly, if you have that exact roll... Just get outta here, you lucky snackerdoodle. 
 dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,957782887
 
 // The Messenger (Adept)
-//notes: -Frog; This is a Frogroll. Sounds like fun on paper. Stability or Handling MW.
+//notes: Frog; This is a Frogroll. Sounds like fun on paper. Stability or Handling MW.
 dimwishlist:item=1173780905&perks=839105230,1561002382,1570042021,3047969693
-//notes: -Frog; This is your classic 6v6 saucer that makes enemies disappear faster than my cat when I am vaccuing my flat. She'S really scared of it, bless that tiny creature, I love her. Ah, yeah, use a normal counterbalance mod to get to 100 recoil and whatever masterwork the game gives you. 
+//notes: Frog; This is your classic 6v6 saucer that makes enemies disappear faster than my cat when I am vaccuing my flat. She'S really scared of it, bless that tiny creature, I love her. Ah, yeah, use a normal counterbalance mod to get to 100 recoil and whatever masterwork the game gives you. 
 dimwishlist:item=1173780905&perks=839105230,1561002382,247725512,3047969693
 
 // Igneous Hammer (Adept)
-//notes: -Frog; Consitency/Duelling Roll. Do not underestimate a saucy 120 HC. Masterwork: Range, Handling, Stability in that order.
+//notes: Frog; Consitency/Duelling Roll. Do not underestimate a saucy 120 HC. Masterwork: Range, Handling, Stability in that order.
 dimwishlist:item=2527666306&perks=3661387068,1885400500,706527188,47981717
 
 // Eye of Sol (Adept)
-//notes: -Frog; PvP Aimbot Sniper. Masterwork: Range or Handling. Bring Adept Targeting and watch that sniper get headshots for you.
+//notes: Frog; PvP Aimbot Sniper. Masterwork: Range or Handling. Bring Adept Targeting and watch that sniper get headshots for you.
 dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,957782887
 
 // Shayura's Wrath (Adept)
-//notes: -Frog; PvP Pocket Autorifle. Masterwork: Range. Max your Range out and watch the lobby go: "Shakira, Shakira!"
+//notes: Frog; PvP Pocket Autorifle. Masterwork: Range. Max your Range out and watch the lobby go: "Shakira, Shakira!"
 dimwishlist:item=4023807721&perks=1467527085,3142289711,1359896290,1015611457
 
 // Found Verdict (Timelost)
-//notes: -Frog; Honestly, I feel like lightweights are in a better spot, but this is the best aggressive frame out there. I still like Surplus, because Handling > Everything else. Masterwork: Handling. 
+//notes: Frog; Honestly, I feel like lightweights are in a better spot, but this is the best aggressive frame out there. I still like Surplus, because Handling > Everything else. Masterwork: Handling. 
 dimwishlist:item=631439337&perks=1047830412,791862061,3436462433,47981717
-//notes: -Frog; Max Range Roll for you absolute bonker boys with Quck Access Sling and Quick Charge and Triple SG Dex. Range MW then too, obviously.
+//notes: Frog; Max Range Roll for you absolute bonker boys with Quck Access Sling and Quick Charge and Triple SG Dex. Range MW then too, obviously.
 dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,47981717
 
 // Fatebringer (Timelost)
-//notes: -Frog; PvE Classic. Frenzy and Firefly. Payload, always. Masterwork: Whatever. Range, probably. Man, looking at the name of that gun - That Fate kid from Val had some serious issues, I hope this dude is doing better and not plaguing discord servers with his obscene messages anymore. Bless the poor fella. 
+//notes: Frog; PvE Classic. Frenzy and Firefly. Payload, always. Masterwork: Whatever. Range, probably. Man, looking at the name of that gun - That Fate kid from Val had some serious issues, I hope this dude is doing better and not plaguing discord servers with his obscene messages anymore. Bless the poor fella. 
 dimwishlist:item=1216319404&perks=3142289711,3038247973,4104185692,3824105627
 dimwishlist:item=1216319404&perks=106909392,3038247973,4104185692,3824105627
-//notes: -Frog; PvP Frogroll. Masterwork: Range.
+//notes: Frog; PvP Frogroll. Masterwork: Range.
 dimwishlist:item=1216319404&perks=1467527085,3142289711,3038247973,699525795
 
 // Corrective Measure (Timelost)
-//notes: -Frog; Looks like fun for general PvE Ad-Mowing and ability generating. Where my lost sector maniacs at?
+//notes: Frog; Looks like fun for general PvE Ad-Mowing and ability generating. Where my lost sector maniacs at?
 dimwishlist:item=3796510434&perks=839105230,106909392,3523296417,2726471870
 
 // Half-Truths
-//notes: -Frog; We all know it's just the cheap Cola knock-off, not the real deal that Santa Claus advertises for, but it still has Eager Edge and not everyone can have a purple lamborghini lurking. I like Tresh on it, but you can really use whatever in the third column. In any column really, as long as you can zoom. 
+//notes: Frog; We all know it's just the cheap Cola knock-off, not the real deal that Santa Claus advertises for, but it still has Eager Edge and not everyone can have a purple lamborghini lurking. I like Tresh on it, but you can really use whatever in the third column. In any column really, as long as you can zoom. 
 dimwishlist:item=3257091166&perks=3666208348,269888150,2077819806
 
 // The Last Breath
-//notes: -Frog; This is the PvE Frogroll. While we must not disregard the inherent synergy of Demo + AJ, I still prefer Subsistence, so my gunny goes BRRRRRRRRRR. *screams in dreg*
+//notes: Frog; This is the PvE Frogroll. While we must not disregard the inherent synergy of Demo + AJ, I still prefer Subsistence, so my gunny goes BRRRRRRRRRR. *screams in dreg*
 dimwishlist:item=507038823&perks=839105230,1885400500,1820235745,11612903
 
 // First In, Last Out
-//notes: -Frog; Apart from being innately drawn to that gun because its name is my standard procedure on a beer pong evening, this thing was the METAH while double slugs and Anarchy was the dps play everywhere. RIP to that combination. This was the godroll and still is insanely useful in a lot of scenarios. Barrels won't make or break this roll, but go for Fluted and a Range or Handling MW if you won't have that 4/5 mentality in your vault, you cute snack. 
+//notes: Frog; Apart from being innately drawn to that gun because its name is my standard procedure on a beer pong evening, this thing was the METAH while double slugs and Anarchy was the dps play everywhere. RIP to that combination. This was the godroll and still is insanely useful in a lot of scenarios. Barrels won't make or break this roll, but go for Fluted and a Range or Handling MW if you won't have that 4/5 mentality in your vault, you cute snack. 
 dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
 
 // Hero of Ages
-//notes: -Frog; This bad boi is a bloody lightning infused Claymore from Dark Souls, with which you can spin like a Beyblade to top things off. It makes enemies go BOOM! and gives you your BOOM! back quicker. Alternative you can go for Unrelenting to have a Devour-esque effect, which is also pretty cool. Not a sustain-dps option, but really good for clearing an entire room, as in first encounter for trio DSC, "lightning"-quick - no pun intended. Jagged + Swordmasters is nice for more spins and more ouch, but you can really go with whatever you fancy, since it doesn't matter much for ad clear.
+//notes: Frog; This bad boi is a bloody lightning infused Claymore from Dark Souls, with which you can spin like a Beyblade to top things off. It makes enemies go BOOM! and gives you your BOOM! back quicker. Alternative you can go for Unrelenting to have a Devour-esque effect, which is also pretty cool. Not a sustain-dps option, but really good for clearing an entire room, as in first encounter for trio DSC, "lightning"-quick - no pun intended. Jagged + Swordmasters is nice for more spins and more ouch, but you can really go with whatever you fancy, since it doesn't matter much for ad clear.
 dimwishlist:item=2139640995&perks=3523296417,2396489472
 dimwishlist:item=2139640995&perks=3108830275,2396489472
 
 // Dead Man's Tale
-//notes: -Frog; PvP Frogroll. All my homies want Vorpal, but I want that strafe and aim assist bump, because I want to yee the fricking haw as often as humanly possible. When I hear that whistle blow my happiness increases immediately, and the more headys I hit, the more the gun becomes a two tapper. Beautiful really. With this perk combination I opted for as much Handling and Stability as possible, while going to a 100 recoil direction as well. 
+//notes: Frog; PvP Frogroll. All my homies want Vorpal, but I want that strafe and aim assist bump, because I want to yee the fricking haw as often as humanly possible. When I hear that whistle blow my happiness increases immediately, and the more headys I hit, the more the gun becomes a two tapper. Beautiful really. With this perk combination I opted for as much Handling and Stability as possible, while going to a 100 recoil direction as well. 
 dimwishlist:item=3654674561&perks=1840239774,1885400500,588594999,4259401308
 dimwishlist:item=3654674561&perks=839105230,1885400500,588594999,990298390
 
 // Hawkmoon
-//notes: -Frog; Caw to the Caw, my man. Going for a 100 recoil direction and Rangefinder. My focus is on Stability, but you can also go for Extended Barrel, if you want more Range. Eye of the Storm is a solid perk if you don't like the zoomy RF. But Froggo likes the zoom, since it's better for your Range than the actual Range stat, which is a weird flex on Bungie's part, but ok. 
+//notes: Frog; Caw to the Caw, my man. Going for a 100 recoil direction and Rangefinder. My focus is on Stability, but you can also go for Extended Barrel, if you want more Range. Eye of the Storm is a solid perk if you don't like the zoomy RF. But Froggo likes the zoom, since it's better for your Range than the actual Range stat, which is a weird flex on Bungie's part, but ok. 
 dimwishlist:item=3856705927&perks=3661387068,1431678320,2846385770,3326204863
 dimwishlist:item=3856705927&perks=3661387068,1431678320,699525795,3326204863
-
-// Forbearance
-//notes: -Tattoowean
-dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472
-
-// Cataclysmic
-//notes: -Tattoowean
-dimwishlist:item=999767358&perks=,2680121939,1354429876,2896038713
